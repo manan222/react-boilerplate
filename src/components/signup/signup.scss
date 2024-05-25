@@ -1,0 +1,36 @@
+.signup-container {
+  position: absolute;
+  top: 47%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 35%;
+  width: 100%;
+  border: [object Object];
+  max-height: 100vh;
+}
+
+.signup-heading {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  color: #e7b738;
+  padding-bottom: 3rem;
+}
+
+.signup-logo {
+  width: 50px;
+  height: 50px;
+  margin-bottom: 2rem;
+}
+
+.btn-style {
+  width: 120px;
+}
+
+.submit-btn {
+  margin-top: 1rem;
+  margin-left: 2rem;
+}
+
+.error {
+  color: #e76c48;
+}

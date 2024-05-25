@@ -1,0 +1,29 @@
+.color {
+  color: white;
+}
+.link-style {
+  color: white;
+  padding: 10px;
+  font-size: 18px;
+}
+.link-style:hover {
+  color: white;
+}
+.logo-style {
+  width: 4rem;
+  height: 4rem;
+  padding: 0.2rem;
+  margin-top: 0.4rem;
+}
+.nav-bg {
+  background-color: #0b153e;
+}
+.logout-button {
+  background-color: #e74c3c !important;
+  margin-right: 0.7rem;
+}
+.navbar-light .navbar-toggler-icon {
+  background-image: url("/assets/images/menu3.jpg") !important;
+  height: 40px;
+  width: 40px;
+}
